@@ -1,0 +1,7 @@
+{
+  "db_dir": "C:/Users/YOUR_NAME/Documents/xwechat_files",
+  "account": "YOUR_ACCOUNT_DIRECTORY",
+  "self_name": "YOUR_DISPLAY_NAME",
+  "output_root": "./wechat-reports",
+  "default_group": "YOUR_GROUP_NAME"
+}

@@ -1,0 +1,26 @@
+WeChat Group Report
+Copyright 2026 Tina2088
+
+Project glue code, report renderer and documentation are distributed under
+the Apache License, Version 2.0. This repository includes third-party source
+files whose original licenses and notices are preserved in vendor/.
+
+Database reading:
+  fanyuantaier/wechatauto-replica
+  https://github.com/fanyuantaier/wechatauto-replica
+  Commit 04ef8cbde3862cff90b5f6b42c9ebfcea44ef48d
+  Apache License 2.0
+
+Message parsing:
+  zhuzhangxue/wechat-chat-export
+  https://github.com/zhuzhangxue/wechat-chat-export
+  Commit 5b56e51cd9368bc7e4c563761057b561501809d9
+  Apache License 2.0
+
+Only the required Python source subset is included. Upstream notices discuss
+optional speech-recognition packages and executables used by the upstream
+application; those binaries, models and download workflows are not included
+or invoked by this skill's reader.
+
+This is an independent community project. It is not affiliated with or
+endorsed by Tencent, WeChat, or OpenAI.

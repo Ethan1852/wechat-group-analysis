@@ -1,0 +1,76 @@
+{
+  "synthetic": true,
+  "group": "虚构演示群",
+  "start": "2026-01-01T12:00:00+08:00",
+  "end_exclusive": "2026-01-02T12:00:00+08:00",
+  "message_count": 6,
+  "sender_count": 3,
+  "duplicates_removed": 0,
+  "type_counts": {
+    "文本": 5,
+    "图片": 1
+  },
+  "database_checks": [],
+  "messages": [
+    {
+      "id": 1,
+      "sender": "成员甲",
+      "sender_username": "synthetic-a",
+      "time": "2026-01-01T13:00:00+08:00",
+      "timestamp": 1767243600,
+      "type": "文本",
+      "content": "演示网页评审版已准备好，请看下页面布局。",
+      "sender_status": "resolved"
+    },
+    {
+      "id": 2,
+      "sender": "成员乙",
+      "sender_username": "synthetic-b",
+      "time": "2026-01-01T14:00:00+08:00",
+      "timestamp": 1767247200,
+      "type": "文本",
+      "content": "布局通过，手机端按钮还需要放大。",
+      "sender_status": "resolved"
+    },
+    {
+      "id": 3,
+      "sender": "成员甲",
+      "sender_username": "synthetic-a",
+      "time": "2026-01-02T09:00:00+08:00",
+      "timestamp": 1767315600,
+      "type": "文本",
+      "content": "按钮已调整，等你复核。",
+      "sender_status": "resolved"
+    },
+    {
+      "id": 4,
+      "sender": "成员乙",
+      "sender_username": "synthetic-b",
+      "time": "2026-01-02T09:30:00+08:00",
+      "timestamp": 1767317400,
+      "type": "文本",
+      "content": "周五活动目前有12人报名，名单还要核对。",
+      "sender_status": "resolved"
+    },
+    {
+      "id": 5,
+      "sender": "成员丙",
+      "sender_username": "synthetic-c",
+      "time": "2026-01-02T10:00:00+08:00",
+      "timestamp": 1767319200,
+      "type": "文本",
+      "content": "我今天补齐报名名单，完成后回群确认。",
+      "sender_status": "resolved"
+    },
+    {
+      "id": 6,
+      "sender": "成员丙",
+      "sender_username": "synthetic-c",
+      "time": "2026-01-02T10:05:00+08:00",
+      "timestamp": 1767319500,
+      "type": "图片",
+      "content": "[图片；虚构示例，没有实际图片文件]",
+      "sender_status": "resolved"
+    }
+  ]
+}
